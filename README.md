@@ -4,8 +4,8 @@ This project explores a social media advertisement performance dataset using SQL
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
-2. [Tools](#-tools)
-3. [Results](#%EF%B8%8F-results)
+2. [Tools](#%EF%B8%8F-tools)
+3. [Results](#-results)
 4. [About the Author](#-about-the-author)
 
 ## 📝 Project Overview
