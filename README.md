@@ -1,6 +1,6 @@
 # Social Media Ad Performance: SQL Analysis & BI Dashboards
 
-This project analyzes a social media advertisement performance dataset using SQL in JupyterLab. The results are visualized through dashboards in Power BI and Tableau, showcasing SQL querying and business intelligence skills.
+This project explores a social media advertisement performance dataset using SQL in JupyterLab and visualizes the data through dashboards in Power BI and Tableau.
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
