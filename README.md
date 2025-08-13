@@ -11,7 +11,7 @@ This project explores a social media advertisement performance dataset using SQL
 ## 📌 Project Overview
 This project explores a social media advertisement performance database obtained from Kaggle. The dataset consists of four synthetic tables containing user information, campaign details, ad specifications, and recorded ad events. The data was already cleaned and ready for analysis, eliminating the need for additional preparation. I queried the data in JupyterLab using SQL, responding to targeted questions from ChatGPT by writing and executing SQL queries. This allowed for focused exploration of relationships and patterns across the interconnected tables.
 
-After completing the SQL queries, all four tables were exported as CSV files. These files were then used to create dashboards in Power BI and Tableau, each built with unique visualizations to highlight different aspects of the data. The project showcases the process of working with a structured, clean database from acquisition to transformation, and finally, to visual presentation in modern BI tools.
+After completing the SQL queries, all four tables were exported as CSV files. These files were then used to create dashboards in Power BI and Tableau, each built with unique visualizations to highlight different aspects of the data.
 
 ## 🧰 Tools
 Analysis was done with Python in JupyterLab. The following key packages were utilized:
