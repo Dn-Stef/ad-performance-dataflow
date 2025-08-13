@@ -27,9 +27,9 @@ Analysis was done with Python in JupyterLab. The following key packages were uti
 Dashboards were created using Power BI and Tableau Public.
 
 ## ⚙️ Results
-In this repository, I've included the notebook used in JupyterLab for analysis, named `project_code.ipynb`. This notebook contains the questions and the SQL queries used to answer them. I've also included the database `ad_campaign_db.sqlite` and the four data tables in CSV format.
+In this repository, I've included the notebook used in JupyterLab for analysis, named `project_code.ipynb`. This notebook contains the questions and the SQL queries used to answer them. I've also included the database `ad_campaign_db.sqlite` and the four data tables in CSV format, located in the `datasets` folder.
 
-The two dashboards, created in Power BI and Tableau Public, are uploaded as PDF files: [Power BI Report.pdf](Power BI Report.pdf) and [Tableau Dashboard.pdf](Tableau Dashboard.pdf). You can view the Tableau dashboard online [here]([URL](https://public.tableau.com/views/TableauDashboard_17550998471870/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
+The two dashboards, created in Power BI and Tableau Public, are uploaded as PDF files: [Power BI Report.pdf](Power%BI%Report.pdf) and [Tableau Dashboard.pdf](Tableau%Dashboard.pdf). You can view the Tableau dashboard online [here]([URL](https://public.tableau.com/views/TableauDashboard_17550998471870/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))
 
 ## 👤 About the Author
 Daniel Stefanian
